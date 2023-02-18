@@ -1,0 +1,116 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "card1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "card2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "carrd3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "card4.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "icon1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "icon3.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "rightimg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "arrowleft.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrowright.svg": {
+    "mime": "image/svg+xml"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "face1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "art1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "art2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "follow6.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt2.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt5.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt6.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt7.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "abt8.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "art3.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "art4.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "art5.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
